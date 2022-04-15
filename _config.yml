@@ -120,6 +120,7 @@ project_team: # 형식에 맞추어 항목 추가
   detail_url: images/pj4.PNG
   readmore_url: pdf/pt4.pdf
 
+
 project_team2_name: 부동산 관련 데이터 분석 및 관리
 project_team2: # 형식에 맞추어 항목 추가
 - background_url: images/pj5.PNG
