@@ -94,15 +94,15 @@ project_my: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   name: 아파트 실거래가 가격지수 예측
   description: 김경민 교수님 연구실에서 수행된 프로젝트로 국토교통부 아파트 실거래가를 이용하여 공시지가, 공간정보 및 경제변수를 병합, 딥러닝 모형을 사용하여 아파트가격을 추정하는 AI모형을 구축함
-  detail_url: https://github.com/juny8/deep-learning
-  readmore_url: images/pj1.PNG
+  detail_url: images/pj1.PNG
+  readmore_url: https://github.com/juny8/deep-learning
 
 - background_url: images/pj2.PNG
   animation: fadeInLeft
   name: 토지입찰시 낙찰 여부 및 낙찰가격 예측
   description: 부동산개발협회와 부동산분석학회의 지원을 받아서 수행되는 이 프로젝트는 공공택지개발사업 지구에서 경쟁입찰로 공급되는 토지입찰의 낙찰 여부 및 낙찰가격을 예측하는 딥러닝 모델 구축을 목적으로 함
-  detail_url: pdf/pt2.pdf
-  readmore_url: images/pj2.PNG
+  detail_url: images/pj2.PNG
+  readmore_url: pdf/pt2.pdf
 
 project_team_name: 부동산 통계 개선 및 신규 통계 개발
 project_team: # 형식에 맞추어 항목 추가
@@ -110,8 +110,8 @@ project_team: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   name: 딥러닝 모형 하이퍼 패러미터 세팅
   description: 딥러닝 모형에서는 정확성을 위한 모형의 피팅이 중요한데, 이를 위하여 For문과 MAPE를 활용한 최적의 하이퍼 패러미터를 세팅하는 모형을 구축함
-  detail_url: https://github.com/juny8/deep-learning
-  readmore_url: images/pj3.PNG
+  detail_url: images/pj3.PNG
+  readmore_url: https://github.com/juny8/deep-learning
 
 - background_url: images/pj4.PNG
   animation: fadeInRight
